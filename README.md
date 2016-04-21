@@ -100,3 +100,11 @@ CNN
 + What to do with noise? It modifies information flow and is stacked with those functions, but it is really just regularization and a trainer modifier.
 + Considering the autoencoding case where tied weights are used? Is sharing model parameters enough to warrent a new layer type?
 + How to deal with multiple inputs and outputs to a layer computation?
+
+---
+### Second meeting
+Layers -> just variables and responses.
+
+Describe an autoencoder with this framework?
+Describe a convnet with this framework?
+Describe an rnn with this framework?
